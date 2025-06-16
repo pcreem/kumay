@@ -1,5 +1,4 @@
-fastapi
-uvicorn
 ultralytics
+gradio
 opencv-python
-Pillow
+pillow
